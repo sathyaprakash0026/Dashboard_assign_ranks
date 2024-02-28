@@ -6,7 +6,7 @@
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 
-# Demo Links:
+# Demo Links: https://main--dashboard-ranks-profile.netlify.app/
 
 # Usage
 
